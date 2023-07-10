@@ -1,0 +1,41 @@
+*{
+    /* font-family: 'Lato', sans-serif; */
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
+}
+*{
+    margin: 0;
+}
+
+header{
+    background-color: #E554731A;
+}
+
+nav{
+    display: flex;
+}
+
+.h1{
+    font-size: 80px;
+}
+
+.p1{
+    font-size: 30px;
+}
+
+.btn{
+    border-radius: 8px;
+    border: 0;
+    background: #E55473;
+    padding: 20px 43px;
+    gap: 10px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+pngwing10{
+    width: 635px;
+    height: 800px;
+    /* flex-shrink: 0; */
+}
