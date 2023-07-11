@@ -208,10 +208,45 @@
     width: 1440px;
     height: 449px;
     margin-left: 600px;
+    display: flex;
 }
 
 .header-container-seven{
     margin-top: 100px;
     text-align: center;
 
+}
+
+span{
+    color: #E55473;
+}
+
+.header-container-four{
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+.paragraph-container-four{
+    margin-top: 20px;
+    margin-left: 580px;
+    font-size: 18px;
+}
+
+.input-box{
+    font-size: 18px;
+    margin-top: 20px;
+    width: 700px;
+    height: 64px;
+    margin-left: 300px;
+}
+
+.contain-btn{
+    border: 0px;
+    margin-left: 20px;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 43px;
+    color: white;
+    background-color: #E55473;
+    border-radius: 5px;
 }
